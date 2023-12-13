@@ -6,8 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "test": "jest",
-    "generateData": "node utils/getEventJson.js > data/data.json"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
